@@ -37,7 +37,3 @@ see console log
 ```
 on browser do inspect element
 ```
-
-
-
-

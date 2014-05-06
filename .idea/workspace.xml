@@ -62,19 +62,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="3" selection-start="576" selection-end="576" vertical-scroll-proportion="-20.4" vertical-offset="0" max-vertical-offset="735">
+            <state line="39" column="0" selection-start="631" selection-end="631" vertical-scroll-proportion="0.84822935" vertical-offset="82" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="618">
+            <state line="41" column="0" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="705">
               <folding />
             </state>
           </provider>
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/products.js.coffee" />
         <option value="$PROJECT_DIR$/app/views/products/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/products_controller.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -659,16 +659,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="3" selection-start="576" selection-end="576" vertical-scroll-proportion="-20.4" vertical-offset="0" max-vertical-offset="735">
+        <state line="41" column="0" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0" vertical-offset="87" max-vertical-offset="705">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="618">
+        <state line="39" column="0" selection-start="631" selection-end="631" vertical-scroll-proportion="0.84822935" vertical-offset="82" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
