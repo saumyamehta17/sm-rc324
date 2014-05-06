@@ -1,0 +1,19 @@
+<h1>Products</h1>
+<!--2. solution-->
+<div id="products" data-url="<%= Product.first.name %>">
+  Loading products...
+</div>
+ <!--3 solution-->
+<%= content_tag 'div', id: 'product', data: {url: Product.limit(5)} do %>
+   Loading Products.....
+<% end %>
+
+<script>
+//1. solution   window.productURL = '<%#=  products_url %>'
+//     window.products = '<%#= raw Product.limit(5).to_json %>'
+//      alert(products);
+
+//2. solution        alert($('#products').data('url'));
+// 3. solution
+            alert($('#products').data('url'));
+</script>
